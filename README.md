@@ -14,4 +14,4 @@ This project implements a 8-bit Full Adder using Verilog HDL. A Full Adder adds 
 . Cout = (A & B) + (B & Cin) + (A & Cin)
 ## Author
 Manasa Mytri
-
+![FULLADDER Waveform](fulladder_waveform.png)
